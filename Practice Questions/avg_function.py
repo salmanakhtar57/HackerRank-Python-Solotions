@@ -1,7 +1,5 @@
 """
-Python script to calculate the average of numbers provided 
-as command-line arguments and write the result to a specified 
-output file.
+Python script to calculate the average of numbers provided as command-line arguments and write the result to a specified output file.
 """
 
 import os
